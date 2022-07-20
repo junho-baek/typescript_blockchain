@@ -1,9 +1,10 @@
-# Typescript로 블록체인 만들기
 - [Typescript로 블록체인 만들기](#typescript----------)
-- [1 INTRODUCTION](#1-introduction)
+- [1. INTRODUCTION](#1-introduction)
   * [타입스크립트의 존재 이유는 안정성 때문이다.](#-----------------------)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+- [2. OVERVIEW OF TYPESCRIPT](#2-overview-of-typescript)
+  * [2.0 How Typescript Works](#20-how-typescript-works)
+    + [타입스크립트가 어떻게 작동하는지 알아보자!](#-----------------------)
+- [2.1 Implict Types vs Explicit Types](#21-implict-types-vs-explicit-types)
 
 ---
 # 1. INTRODUCTION
