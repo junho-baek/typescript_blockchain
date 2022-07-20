@@ -1,9 +1,11 @@
 - [1. INTRODUCTION](#1-introduction)
-  * [타입스크립트의 존재 이유는 안정성 때문이다.](#-----------------------)
+  * [The reason for the existence of TypeScript is stability.](#the-reason-for-the-existence-of-typescript-is-stability)
 - [2. OVERVIEW OF TYPESCRIPT](#2-overview-of-typescript)
   * [2.0 How Typescript Works](#20-how-typescript-works)
-    + [타입스크립트가 어떻게 작동하는지 알아보자!](#-----------------------)
-- [2.1 Implict Types vs Explicit Types](#21-implict-types-vs-explicit-types)
+  * [2.1 Implict Types vs Explicit Types](#21-implict-types-vs-explicit-types)
+  * [2.2 Types of TS part One](#22-types-of-ts-part-one)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ---
 # 1. INTRODUCTION
