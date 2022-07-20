@@ -1,7 +1,7 @@
 {
   "version": 3,
   "sources": ["../index.ts"],
-  "sourcesContent": ["console.log([]+true)"],
-  "mappings": "AAAA,QAAQ,IAAI,KAAG;",
+  "sourcesContent": ["const player : {\n  name:string,\n  age?:number\n} = {\n  name:\"nico\"\n}"],
+  "mappings": "AAAA,MAAM,SAGF;AAAA,EACF,MAAK;AAAA;",
   "names": []
 }

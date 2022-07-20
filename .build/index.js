@@ -1,2 +1,4 @@
-console.log([] + true);
+const player = {
+  name: "nico"
+};
 //# sourceMappingURL=index.js.map
